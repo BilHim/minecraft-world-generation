@@ -14,3 +14,6 @@ I used multiple scripts to generate the figures used in the article. Some of the
 ![alt text](https://github.com/BilHim/minecraft-word-generation/raw/main/preview_1.png "Preview 1")
 ![alt text](https://github.com/BilHim/minecraft-word-generation/raw/main/preview_2.png "Preview 2")
 ![alt text](https://github.com/BilHim/minecraft-word-generation/raw/main/preview_3.png "Preview 3")
+
+## License
+This work is licensed under the MIT license.
