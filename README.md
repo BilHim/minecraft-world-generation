@@ -1,7 +1,7 @@
 # Minecraft World Generation in Python
  
 This is an attempt to replicate Minecraft world generation in Python.
-This is part of an article published on Medium.
+This is part of an [article](https://towardsdatascience.com/replicating-minecraft-world-generation-in-python-1b491bc9b9a4) published on Medium.
 
 
 ## Source code
